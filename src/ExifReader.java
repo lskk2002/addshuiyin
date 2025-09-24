@@ -16,7 +16,7 @@ public class ExifReader {
     private static final String EXIF_DATE_TAG = "DateTimeOriginal";
 
     /**
-     * 从图片文件中读取拍摄时间11
+     * 从图片文件中读取拍摄时间111
      * @param imageFile 图片文件
      * @return 拍摄时间的年月日字符串，格式为"yyyy-MM-dd"
      */
